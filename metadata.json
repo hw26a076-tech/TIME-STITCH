@@ -1,0 +1,6 @@
+{
+  "name": "TIME STITCH",
+  "description": "3秒前の過去の自分の残像と『光のロープ（時間の縫い目）』を張り、足場やトランポリンにしてダイナミックに空を舞う、時空物理パズルアクションゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
